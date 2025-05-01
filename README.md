@@ -47,7 +47,7 @@ db.animales.updateOne(
 
 📖 Cómo usar este repositorio
 ```bash
-git clone https://github.com/tuusuario/mongo-practicas.git
+git clone https://github.com/SamuelZambrana/MongoDB-Avanced-Practice
 ```
 
 🏆 Contacto y contribuciones
